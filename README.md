@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Esra SIRTIKARA
+- 👋 Hi, I’m Esra AKBULUT
 
 <!---
 esrasrtkara/esrasrtkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
