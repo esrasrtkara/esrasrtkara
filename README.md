@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Esra AKBULUT
+ 👋 Hi, I’m Esra AKBULUT
 
 - 🌱 I’m currently learning Java
 
